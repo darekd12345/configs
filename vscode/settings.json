@@ -1,0 +1,15 @@
+{
+    "editor.lineHeight": 28,
+    "editor.fontSize": 13,
+    "editor.rulers": [100],
+    "editor.fontFamily": "Source Code Pro, Monaco, 'Courier New', monospace",
+
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.iconTheme": "vscode-great-icons",
+    
+    "terminal.integrated.fontSize": 13,
+    
+    "files.associations": {
+        "*.css": "postcss"
+    }
+}
