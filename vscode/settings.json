@@ -9,6 +9,14 @@
     
     "terminal.integrated.fontSize": 13,
     
+    "emmet.includeLanguages":{
+      "postcss": "css"
+    },
+
+    "emmet.syntaxProfiles": {
+      "postcss": "css"
+    },
+
     "files.associations": {
         "*.css": "postcss"
     }
