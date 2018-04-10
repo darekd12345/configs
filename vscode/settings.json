@@ -3,6 +3,9 @@
     "editor.fontSize": 13,
     "editor.rulers": [100],
     "editor.fontFamily": "Source Code Pro, Monaco, 'Courier New', monospace",
+    
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
 
     "workbench.colorTheme": "Monokai Dimmed",
     "workbench.iconTheme": "vscode-great-icons",
